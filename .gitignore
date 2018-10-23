@@ -1,1 +1,5 @@
 *.gz
+Projects/SentenceCorpus
+Projects/NIPS*
+*.zip
+
